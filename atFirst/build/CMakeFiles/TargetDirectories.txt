@@ -1,0 +1,3 @@
+/home/guoqing/prog/OpenCV Learning/atFirst/build/CMakeFiles/rebuild_cache.dir
+/home/guoqing/prog/OpenCV Learning/atFirst/build/CMakeFiles/opencv_example.dir
+/home/guoqing/prog/OpenCV Learning/atFirst/build/CMakeFiles/edit_cache.dir

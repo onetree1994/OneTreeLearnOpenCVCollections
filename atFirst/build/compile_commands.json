@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/guoqing/prog/OpenCV Learning/atFirst/build",
+  "command": "/usr/bin/g++-4.8   -isystem /usr/local/opencv4/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/opencv_example.dir/main.cpp.o -c \"/home/guoqing/prog/OpenCV Learning/atFirst/main.cpp\"",
+  "file": "/home/guoqing/prog/OpenCV Learning/atFirst/main.cpp"
+}
+]
